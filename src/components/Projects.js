@@ -11,7 +11,7 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Online Course",
+      title: "FeelsQuest",
       description: "Design & Development",
       imgUrl: projImg1,
     },
